@@ -16,7 +16,7 @@ The model handles missing values, scales features, and balances the minority cla
 - Handle class imbalance with 'class_weight='balanced'' in classifiers.
 
 ## Model
-- Voting Classifier (hard voting):
+- **Voting Classifier (hard voting)**:
   - Logistic Regression ('max_iter=1000, 'class_weight='balanced'')
   - KNN (default=5)
   - Decision Tree (`random_state=42`, `class_weight='balanced'`)
