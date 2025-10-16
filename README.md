@@ -24,10 +24,11 @@ The model handles missing values, scales features, and balances the minority cla
   ## Results
   - Accuracy: ~99.6%
   - Minority class (cancer) recall improved after scaling.
-| Class | Precision | Recall | F1-score | Support |
-|-------|----------|--------|----------|--------|
-| 0     | 1.00     | 1.00   | 1.00     | 252    |
-| 1     | 0.86     | 1.00   | 0.92     | 6      |
+    
+| Class | Precision | Recall | F1-score | Support |  
+|-------|----------|--------|----------|--------|  
+| 0     | 1.00     | 1.00   | 1.00     | 252    |  
+| 1     | 0.86     | 1.00   | 0.92     | 6      |  
 
 
   ## Usage
