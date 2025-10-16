@@ -1,6 +1,6 @@
 # Cervical Cancer Risk Prediction
 
-##Project Overview
+## Project Overview
 This project predicts the risk of cervical cancer using a **VotingClassifier** combining
 Logistic Regression, K-Nearest Neighbors (KNN), and Decision Tree models.
 The model handles missing values, scales features, and balances the minority class. 
